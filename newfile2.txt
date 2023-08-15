@@ -1,2 +1,4 @@
 test1 content
+main content
 test1 new content
+content after reset
